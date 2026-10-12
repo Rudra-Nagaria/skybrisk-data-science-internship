@@ -1,0 +1,19 @@
+customer_id,name,email,age,city
+101,  alice johnson ,Alice.Johnson@Example.com,29,Kanpur
+102,BOB SMITH,bob.smith@example.com,34,Lucknow
+103,carol white,carol.white@example.com,41,Kanpur
+104,Alice Johnson,alice.johnson@example.com,29,Kanpur
+105,david brown,,38,Delhi
+106,eva green,eva.green@example.com,abc,Lucknow
+107,frank miller,frank.miller@example.com,250,Delhi
+108,grace lee,grace.lee@example.com,27,Kanpur
+109,  henry ford,HENRY.FORD@example.com ,52,Agra
+110,bob smith,bob.smith@example.com,34,Lucknow
+111,,ivy.chen@example.com,31,Delhi
+112,jack wilson,jack.wilson@example.com,45,Agra
+113,karen davis,karen.davis@example.com,-5,Kanpur
+114,leo martin,leo.martin@example.com,36,Lucknow
+115,mia clark,mia.clark@example.com,23,Kanpur
+116,noah lewis,noah.lewis@example.com,,Delhi
+117,olivia hall,olivia.hall@example.com,48,Agra
+118,Grace Lee,GRACE.LEE@example.com,27,Kanpur
