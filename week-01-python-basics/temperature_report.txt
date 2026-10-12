@@ -1,0 +1,12 @@
+
+Temperature Analysis Report
+---------------------------
+Number of readings: 3
+Average: 30.33 °C
+Highest: 32.50 °C
+Lowest: 28.50 °C
+
+Readings and Fahrenheit conversions:
+1. 28.50 °C = 83.30 °F
+2. 30.00 °C = 86.00 °F
+3. 32.50 °C = 90.50 °F
